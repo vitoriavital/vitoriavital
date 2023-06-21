@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     
 - ☁️ Deploy:
 
-    ![Heroku](https://img.shields.io/badge/heroku-%23FF9900.svg?style=for-the-badge&logo=amazon-heroku&logoColor=white)
+    ![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=white)
     ![Ruby on Rails](https://img.shields.io/badge/Ruby%20On%20Rails-EE0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
     
 - ♾️ Development Workflow:
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Figma](https://img.shields.io/badge/Figma-D70A53?style=for-the-badge&logo=figma&logoColor=white)
     ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-    ![Sidekiq](https://img.shields.io/badge/Sidekiq-44CC11?style=for-the-badge&logo=sidekiq&logoColor=white)
+    ![Sidekiq](https://img.shields.io/badge/Sidekiq-%23C51A4A?style=for-the-badge)
 
 </p>
 
