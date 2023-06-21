@@ -21,7 +21,7 @@
 
 - 😄 Pronouns: **She/Her/Hers**
 
-- 💪🏼 Fav Quote: "Great Developers never stop learning".
+
 
 <br>
 
