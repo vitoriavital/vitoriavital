@@ -6,9 +6,10 @@
 
 </div>
 
-<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+
+<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 - 🔭 I’m looking for with **Full Stack Web Development** opportunities
 
