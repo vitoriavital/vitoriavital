@@ -68,10 +68,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vitoriavital&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
-
-
-
-<div align="center">
-
-
 <br/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/vitoria-vital/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="vitoria.vital123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
