@@ -12,16 +12,21 @@
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 - 🔭 I’m looking for **Full Stack Web Development** opportunities.
+  
 
 - 👯 I’m looking to collaborate on **Web Development**.
 
-- 👨‍💻 You can access all of my open-source projects on **[GitHub](https://github.com/vitoriavital)**.
+
+- 👨‍💻 You can access all of my open-source projects on **[GitHub](https://github.com/vitoriavital)**
+
 
 - 💬 Ask me about anything, I am happy to help!
+
 
 - 😄 Pronouns: **She/Her/Hers**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+<p align="center">
 
 - 👩‍💻 Fundamentals and Databases:
     ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=terminal&logoColor=white)
@@ -45,6 +50,7 @@
     ![Figma](https://img.shields.io/badge/Figma-D70A53?style=for-the-badge&logo=figma&logoColor=white)
     ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
     ![Sidekiq](https://img.shields.io/badge/Sidekiq-%23C51A4A?style=for-the-badge)
+</p>
 
 ### ⚙️ &nbsp; GitHub Analytics
 
