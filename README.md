@@ -59,6 +59,16 @@
   </a>
 </p>
 
+### 🛠️ &nbsp; Projects
+
+<a target="_blank" href="https://sax-marketplace.herokuapp.com">**EnColtrane**</a>
+
+EnColtrane is a marketplace dedicated to unique and rare saxophones, providing a platform for the community of saxophone and music enthusiasts to buy and sell instruments, as well as connect with other buyers and sellers. The concept of the marketplace aims to address a gap in the market by offering high-quality and trustworthy saxophones to passionate individuals. It welcomes and embraces everyone, from beginners looking to find their first instrument to experts in the art, helping them discover their perfect saxophone.
+  
+<a target="_blank" href="https://compass.dev.br">**Compass**</a>
+
+Compass is a mentorship platform targeted towards individuals interested in transitioning into the tech world. It connects people from different backgrounds who are interested in transitioning to a tech field with mentors who have already gone through this experience and are thriving in the tech world. Through user registration as either a mentor or mentee, data is collected to build their profiles, which is then used to provide the best-fitting matches to the users. This means that individuals are matched with mentors who have the most synergy with their profile, enabling them to receive the best advice and mentorship.
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b>
 <br>
