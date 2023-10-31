@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
-- 🔭 I’m looking for **Full Stack Web Development** opportunities.
+- 🛸 Cadet at **42 São Paulo**.
   
 - 👯 I’m looking to collaborate on **Web Development**.
 
