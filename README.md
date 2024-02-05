@@ -69,6 +69,9 @@ EnColtrane is a marketplace dedicated to unique and rare saxophones, providing a
 
 Compass is a mentorship platform targeted towards individuals interested in transitioning into the tech world. It connects people from different backgrounds who are interested in transitioning to a tech field with mentors who have already gone through this experience and are thriving in the tech world. Through user registration as either a mentor or mentee, data is collected to build their profiles, which is then used to provide the best-fitting matches to the users. This means that individuals are matched with mentors who have the most synergy with their profile, enabling them to receive the best advice and mentorship.
 
+### 👽 &nbsp; École 42 Core Curriculum
+
+![Libftm Achievement](https://game.42sp.org.br/static/assets/achievements/libftm.png)
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b>
 <br>
