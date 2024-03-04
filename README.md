@@ -72,8 +72,10 @@ Compass is a mentorship platform targeted towards individuals interested in tran
 ### 🛸 &nbsp; École 42 Core Curriculum
 
 [![Libftm Achievement](https://game.42sp.org.br/static/assets/achievements/libftm.png)](https://github.com/vitoriavital/libft-42)
-[![Libftm Achievement](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)](https://github.com/vitoriavital/gnl-42)
-[![Libftm Achievement](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)](https://github.com/vitoriavital/printf-42)
+[![GNL Achievement](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)](https://github.com/vitoriavital/gnl-42)
+[![Printf Achievement](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)](https://github.com/vitoriavital/printf-42)
+[![Fractol Achievement](https://game.42sp.org.br/static/assets/achievements/ft_fractolm.png)](https://github.com/vitoriavital/fractol-42)
+[![Pipex Achievement](https://game.42sp.org.br/static/assets/achievements/ft_pipexm.png)](https://github.com/vitoriavital/pipex-42)
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b>
 <br>
