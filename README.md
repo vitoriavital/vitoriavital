@@ -76,6 +76,7 @@ Compass is a mentorship platform targeted towards individuals interested in tran
 [![Printf Achievement](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)](https://github.com/vitoriavital/printf-42)
 [![Fractol Achievement](https://game.42sp.org.br/static/assets/achievements/fract-olm.png)](https://github.com/vitoriavital/fractol-42)
 [![Pipex Achievement](https://game.42sp.org.br/static/assets/achievements/pipexm.png)](https://github.com/vitoriavital/pipex-42)
+[![Push Swap Achievement](https://game.42sp.org.br/static/assets/achievements/push_swapm.png)](https://github.com/vitoriavital/push-swap-42)
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b>
 <br>
