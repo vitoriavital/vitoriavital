@@ -85,7 +85,7 @@ Compass is a mentorship platform targeted towards individuals interested in tran
 [![Push Swap Achievement](https://github.com/ayogun/42-project-badges/raw/main/badges/push_swapm.png)](https://github.com/vitoriavital/push-swap-42)
 [![Minishell Achievement](https://github.com/ayogun/42-project-badges/raw/main/badges/minishelle.png)](https://github.com/vitoriavital/minishell-42)
 [![Minishell Achievement](https://github.com/ayogun/42-project-badges/raw/main/badges/philosopherse.png)](https://github.com/vitoriavital/philosophers-42)
-[![Netpractice Achievement](https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticee.png)
+![Netpractice Achievement](https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticee.png)
 [![Minishell Achievement](https://github.com/ayogun/42-project-badges/raw/main/badges/cppm.png)](https://github.com/vitoriavital/CPP-42)
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b>
