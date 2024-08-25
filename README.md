@@ -25,6 +25,11 @@
     ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
     ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) 
     ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
+    ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 - 📋 Front-end & Web Design:
     
@@ -32,6 +37,7 @@
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
     ![Webpack](https://img.shields.io/badge/webpack-22ADF6?style=for-the-badge&logo=webpack&logoColor=white)
+    ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
     
 - ☁️ Deploy:
 
